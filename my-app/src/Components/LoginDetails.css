@@ -1,0 +1,31 @@
+.logindetails {
+    background-color: ghostwhite;
+    flex: 1;
+    flex-direction: column;
+    max-width: fit-content;
+    margin: auto;
+}
+
+.form {
+    flex: 1;
+    flex-direction: column;
+    justify-self: center;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    padding: 5px;
+
+}
+
+input {
+    padding: 10px;
+    margin: 5px;
+    width: 300px
+}
+
+button {
+    margin: 5px;
+    width: 100px;
+    height: 30px;
+
+}
